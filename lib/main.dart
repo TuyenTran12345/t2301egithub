@@ -2,7 +2,7 @@ import 'package:exam_dart/model/student.dart';
 import 'package:flutter/material.dart';
 import 'model/score.dart';
 import 'model/subject.dart';
-import 'service/student_management.dart'; // Import your StudentManagement class
+import 'service/student_management.dart';
 
 void main() {
   runApp(const MyApp());
