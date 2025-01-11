@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Truong Gia Binh",
+    "subjects": [
+      {
+        "name": "Math",
+        "scores": [
+          {"value": 7},
+          {"value": 9},
+          {"value": 8}
+        ]
+      },
+      {
+        "name": "Physics",
+        "scores": [
+          {"value": 7},
+          {"value": 8},
+          {"value": 9}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Le Truong Tung",
+    "subjects": [
+      {
+        "name": "Chemistry",
+        "scores": [
+          {"value": 6},
+          {"value": 8},
+          {"value": 7}
+        ]
+      },
+      {
+        "name": "Biology",
+        "scores": [
+          {"value": 5},
+          {"value": 6},
+          {"value": 7}
+        ]
+      }
+    ]
+  }
+]
